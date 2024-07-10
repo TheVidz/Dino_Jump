@@ -1,9 +1,4 @@
-// found at https://github.com/wayou/t-rex-runner/blob/gh-pages/index.js
 
-// Copyright (c) 2014 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-// extract from chromium source code by @liuwayong
 (function () {
     "use strict";
     /**
@@ -2189,7 +2184,7 @@
         },
 
         /**
-         * Update the distance meter.
+         * Update the distance meter
          * @param {number} distance
          * @param {number} deltaTime
          * @return {boolean} Whether the acheivement sound fx should be played.

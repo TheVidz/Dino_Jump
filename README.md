@@ -1,5 +1,4 @@
 # Dino_Jump
 
-The classic chrome dinosaur game, but we have to jump and duck in real life...
-
-run the the indx.html file, and we will be good to go
+Chrome Dino Jump web game which allows to play the game by  **physically jumping/ducking**.
++ Using the TensorFlow.js implemention of the  **PoseNet** model to detect if the user is ducking or jumping in real time.
